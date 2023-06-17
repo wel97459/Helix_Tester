@@ -6,6 +6,7 @@ It only supports connecting to one display at a time.
 
 ## Building
 ```
+git clone --recursive https://github.com/wel97459/Helix_Tester.git
 cmake .
 make
 ```
